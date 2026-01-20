@@ -116,11 +116,13 @@ Financial data visualization best practices
 
 DAX context handling and aggregation
 
+Designing professional BI dashboards
+
+Combining ML insights with BI storytelling
+
+
 👤 Author
 
 Blesson Biju
 Aspiring Data Scientist | Data Analyst
 
-Designing professional BI dashboards
-
-Combining ML insights with BI storytelling
